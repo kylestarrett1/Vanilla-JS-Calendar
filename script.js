@@ -146,3 +146,5 @@ function initButtons() {
 
 initButtons();
 load();
+
+// New Comment
